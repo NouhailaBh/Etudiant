@@ -1,5 +1,5 @@
 public class etudiant{
-    private String nom1;
+    private String nomNouhaila;
     private String Cne;
     private String notesMain;
     private String notes;
