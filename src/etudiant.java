@@ -3,6 +3,7 @@ public class etudiant{
     private String Cne;
     private String notesMain;
     private String notes;
+    private String ecole;
 
     public double calculerMoyenne() {
         double moyenne = 0.0;
