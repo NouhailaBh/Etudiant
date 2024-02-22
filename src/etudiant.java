@@ -4,6 +4,7 @@ public class etudiant{
     private String notesMain;
     private String notes;
     private String ecole;
+    private String conflit2;
 
     public double calculerMoyenne() {
         double moyenne = 0.0;
